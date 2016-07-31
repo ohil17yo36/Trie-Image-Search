@@ -1,2 +1,1 @@
-# AnonPass
 # Trie-Image-Search
